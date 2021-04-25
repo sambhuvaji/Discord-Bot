@@ -16,7 +16,7 @@ bot.on('message',msg=>{
 
 bot.on('message',msg=>{
     if (msg.content === "Day"){
-        msg.reply('Sunday');
+        msg.reply('Monday');
     }
 })
 
